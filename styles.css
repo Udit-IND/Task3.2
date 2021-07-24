@@ -1,0 +1,31 @@
+.container-1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.container-2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.container-3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.gif3{
+    padding: 20px 0px 10px 0px;
+
+}
+.gif2{
+    padding: 10px 0px 0px 0px;
+}
+.gif1{
+    padding: 20px 0px 10px 0px;
+}
+body{
+    background-color: #F5E79D;
+}
+h3{
+    text-align: center;
+    color: #FF3D68;
+    font-size: 60px;
+    text-decoration: underline;
+}
